@@ -11,7 +11,3 @@
 6. put a status on whats app at audio format
 
 7. hiding a profile picutre
-
-8.Create a document send code
-
-9. create a payment option code
