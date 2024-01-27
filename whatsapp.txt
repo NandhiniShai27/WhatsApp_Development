@@ -5,3 +5,9 @@
 3. hide a last seen
 
 4. Put a status on whatsapp(Image format)
+
+5. Put a status on whats app at Video format
+
+6. put a status on whats app at audio format
+
+7. hiding a profile picutre
